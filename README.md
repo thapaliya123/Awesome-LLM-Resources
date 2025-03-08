@@ -10,7 +10,6 @@ Understanding (2018) by Devlin et al., [Link](https://arxiv.org/abs/1810.04805)
 5. Language Models are Few-Shot Learners (2020) by Brown et al., [Link](https://arxiv.org/abs/2005.14165)
 6. An Image is Worth 16x16 Words: Transformers for Image Recognition
 at Scale (2020) by Dosovitskiy et al., [Link](https://arxiv.org/abs/2010.11929)
-----------------------------------------------------------
 7. RWKV: Reinventing RNNs for the Transformer Era (2023) by Peng et
 al., [Link](https://arxiv.org/abs/2305.13048)
 8. Hyena Hierarchy: Towards Larger Convolutional Language Models
