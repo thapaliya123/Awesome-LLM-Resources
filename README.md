@@ -1,6 +1,12 @@
 # Awesome LLM Resources
 
-## Part 1
+*A curated list of essential papers, codebases, and tools for mastering Large Language Models (LLMs).  
+Inspired by Sebastian Raschka’s book [*Build a Large Language Model From Scratch*](https://www.manning.com/books/build-a-large-language-model-from-scratch).*
+
+---
+
+
+## Part 1: Foundational Research
 1. BloombergGPT: A Large Language Model for Finance (2023) by Wu et al., [Link](https://arxiv.org/abs/2303.17564)
 2. Towards Expert-Level Medical Question Answering with Large
 Language Models (2023) by Singhal et al., [Link](https://arxiv.org/abs/2305.09617)
@@ -24,7 +30,7 @@ Touvron et al., [Link](https://arxiv.org/abs/2307.092881)
 Feedback (2022) by Ouyang et al., [Link](https://arxiv.org/abs/2203.02155)
 
 
-## Part 2
+## Part 2: Tokenization & Subword Techniques
 13. Machine Learning Q and AI (2023) by Sebastian Raschka, [Link](https://leanpub.com/machine-learning-q-and-ai)
 14. Neural Machine Translation of Rare Words with Subword Units (2015)
 by Sennrich at al., [Link](https://arxiv.org/abs/1508.07909)
@@ -37,7 +43,7 @@ and Richardson, [Link](https://aclanthology.org/D18-2012/)
 19. Fast WordPiece Tokenization (2020) by Song et al., [Link](https://arxiv.org/abs/2012.15524)
 
 
-## Part 3
+## Part 3: Efficient Attention & Architecture
 20. Neural Machine Translation by Jointly Learning to Align and Translate (2014) by Bahdanau, Cho, and Bengio, [Link](https://arxiv.org/abs/1409.0473)
 21. FlashAttention: Fast and Memory-Efficient Exact Attention with IO-
 Awareness (2022) by Dao et al., [Link](https://arxiv.org/abs/2205.14135)
@@ -49,7 +55,7 @@ Partitioning (2023) by Dao,, [Link](https://arxiv.org/abs/2307.08691)
 25. Simplifying Transformer Blocks (2023) by He and Hofmann, [Link](https://arxiv.org/abs/2311.01906)
 
 
-## Part 4
+## Part 4: Normalization & GPT Models
 26. Layer Normalization (2016) by Ba, Kiros, and Hinton, [Link](https://arxiv.org/abs/1607.06450)
 27. On Layer Normalization in the Transformer Architecture (2020) by
 Xiong et al., [Link](https://arxiv.org/abs/2002.04745)
@@ -66,7 +72,7 @@ Radford et al., [Link](https://d4mucfpksywv.cloudfront.net/better-language-model
 33. "In the long (context) run" by Harm de Vries, [Link](https://www.harmdevries.com/post/context-length/)
 
 
-## Part 5
+## Part 5: Training Strategies & Datasets
 34. L8.2 Logistic Regression Loss Function, [Link](https://www.youtube.com/watch?v=GxJe0DZvydM)
 35. Pythia: A Suite for Analyzing Large Language Models Across Training
 and Scaling (2023) by Biderman et al., [Link](https://arxiv.org/abs/2304.01373)
@@ -85,3 +91,6 @@ Corpora with Web Data, and Web Data Only, by Penedo et al. (2023), [Link](https:
 43. Hierarchical Neural Story Generation by Fan et al. (2018), [Link](https://arxiv.org/abs/1805.04833)
 44. Diverse Beam Search: Decoding Diverse Solutions from Neural
 Sequence Models by Vijayakumar et al. (2016), [Link](https://arxiv.org/abs/1610.02424)
+
+## Contributing
+Contributions welcome! Feel free to submit a PR or open an issue for additional resources.  
